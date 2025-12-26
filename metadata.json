@@ -1,0 +1,7 @@
+{
+    "uuid": "gielda@mojaplet",
+    "name": "Giełda - Notowania",
+    "description": "Notowania giełdowe (Yahoo + Stooq)",
+    "version": "1.0",
+    "icon": "emblem-money"
+}

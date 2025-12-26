@@ -1,0 +1,58 @@
+.popup-header {
+    font-weight: bold;
+    font-size: 1.1em;
+    padding: 5px 10px;
+    color: #f8fafc;
+    background-color: rgba(255, 255, 255, 0.05);
+}
+
+.stock-row {
+    padding: 6px 10px;
+    spacing: 5px; /* Odstęp między elementami */
+}
+
+/* Kolumny - sztywne szerokości dla wyrównania */
+.stock-name-box {
+    width: 110px;
+}
+
+.stock-price {
+    width: 80px;
+    text-align: right;
+    font-family: monospace;
+    font-weight: bold;
+    color: #f8fafc;
+}
+
+.stock-currency {
+    width: 40px;
+    text-align: center;
+    color: #94a3b8;
+    font-size: 0.85em;
+    border: 1px solid #475569;
+    border-radius: 4px;
+    padding: 1px;
+}
+
+.stock-change {
+    width: 75px;
+    text-align: right;
+    font-weight: bold;
+}
+
+.stock-graph {
+    width: 60px; 
+    height: 25px;
+}
+
+.stock-period {
+    width: 30px;
+    text-align: right;
+    font-size: 0.8em;
+    color: #64748b;
+}
+
+/* Kolory */
+.change-up { color: #10b981; }
+.change-down { color: #ef4444; }
+.text-sub { font-size: 0.85em; color: #94a3b8; font-weight: normal; }
