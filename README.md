@@ -5,4 +5,5 @@ Installation and use
 Version 1: 
 you need to create a directory "gielda@mojaplet" in .local/share/cinnamon/applets/gielda@mojaplet
 
->>/home/user/.local/share/cinnamon/applets/gielda@mojaplet<<
+>>/home/user/.local/share/cinnamon/applets/gielda@mojaplet
+>>
